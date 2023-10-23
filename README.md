@@ -1,4 +1,4 @@
-# Codewars Challenges  <a href="https://github.com/vixhnuchandran/exercism/tree/master/javascript" > Javascript </a>
+# Codewars Challenges  <a href="https://github.com/vixhnuchandran/codewars/tree/master/javascript" > Javascript </a>
 ## Profile  <a href="https://www.codewars.com/users/vixhnuchandran" > here </a>  
 ### Difficulty 
 <a align="right" > <img src="https://github.com/vixhnuchandran/codewars/assets/56486732/229d441f-1544-45b0-81b7-7723453c7610" height="200px" width="300px"> </a>
