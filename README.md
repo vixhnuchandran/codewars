@@ -1,9 +1,8 @@
 # Codewars Challenges  <a href="https://github.com/vixhnuchandran/exercism/tree/master/javascript" > Javascript </a>
 ## Profile  <a href="https://www.codewars.com/users/vixhnuchandran" > here </a>  
 ### Difficulty 
-<a align="right" > <img src="https://github.com/vixhnuchandran/codewars/assets/56486732/79f2e94a-13d8-492d-a7d3-131e67e68f09" height="200px" width="300px"> </a>
+<a align="right" > <img src="https://github.com/vixhnuchandran/codewars/assets/56486732/229d441f-1544-45b0-81b7-7723453c7610" height="200px" width="300px"> </a>
 # Progress
-
 
 | Sl No | Kata   (challenge)                   | Language   | Difficulty       | Date | Status       |
 |-------|-------------------------------|------------|------------------|------|--------------|
