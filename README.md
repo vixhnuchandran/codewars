@@ -12,7 +12,7 @@
 |  4    | Classy Classes | JavaScript | 8 kyu | Oct 19, 2023 | ✅ Completed |
 |  5    | Classic Hello World | JavaScript | 8 kyu | Oct 19, 2023 | ✅ Completed |
 |  6    | Grader | JavaScript | 8 kyu | Oct 23, 2023 | ✅ Completed |
-|  7    |  | JavaScript | 8 kyu |  |  |
+|  7    | Smallest unused ID | JavaScript | 8 kyu | Oct 23, 2023 | ✅ Completed |
 |  8    |  | JavaScript | 8 kyu |  |  |
 |  9    |  | JavaScript | 8 kyu |  |  |
 |  10   |  | JavaScript | 8 kyu |  |  |
