@@ -29,17 +29,17 @@
 | 17    | Grasshopper - Summation                | JavaScript | 8kyu       | Oct 26, 2023 | ✅ Completed |
 | 18    | MakeUpperCase                          | JavaScript | 8 kyu      | Oct 26, 2023 | ✅ Completed |
 | 19    | Vowel Count                            | JavaScript | 7 kyu      | Oct 26, 2023 | ✅ Completed |
-| 20    |                                        | JavaScript |            |              | ✅ Completed |
-|       |                                        | JavaScript |            |              | ✅ Completed |
-|       |                                        | JavaScript |            |              | ✅ Completed |
-|       |                                        | JavaScript |            |              | ✅ Completed |
-|       |                                        | JavaScript |            |              | ✅ Completed |
-|       |                                        | JavaScript |            |              | ✅ Completed |
-|       |                                        | JavaScript |            |              | ✅ Completed |
-|       |                                        | JavaScript |            |              | ✅ Completed |
-|       |                                        | JavaScript |            |              | ✅ Completed |
-|       |                                        | JavaScript |            |              | ✅ Completed |
-|       |                                        | JavaScript |            |              | ✅ Completed |
+| 20    | Highest and Lowest                     | JavaScript | 7 kyu      | Oct 26, 2023 | ✅ Completed |
+| 21    | Exes and Ohs                           | JavaScript | 7 kyu      | Oct 26, 2023 | ✅ Completed |
+| 22    |                                        | JavaScript |            |              | ✅ Completed |
+| 23    |                                        | JavaScript |            |              | ✅ Completed |
+| 24    |                                        | JavaScript |            |              | ✅ Completed |
+| 25    |                                        | JavaScript |            |              | ✅ Completed |
+| 26    |                                        | JavaScript |            |              | ✅ Completed |
+| 27    |                                        | JavaScript |            |              | ✅ Completed |
+| 28    |                                        | JavaScript |            |              | ✅ Completed |
+| 29    |                                        | JavaScript |            |              | ✅ Completed |
+| 30    |                                        | JavaScript |            |              | ✅ Completed |
 |       |                                        | JavaScript |            |              | ✅ Completed |
 |       |                                        | JavaScript |            |              | ✅ Completed |
 |       |                                        | JavaScript |            |              | ✅ Completed |
