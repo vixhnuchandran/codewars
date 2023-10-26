@@ -26,42 +26,94 @@
 | 14    | Is this a triangle?                    | JavaScript | 7 kyu      | Oct 26, 2023 | ✅ Completed |
 | 15    | Remove String Spaces                   | JavaScript | 8 kyu      | Oct 26, 2023 | ✅ Completed |
 | 16    | Square Every Digit                     | JavaScript | 7 kyu      | Oct 26, 2023 | ✅ Completed |
-| 17    | Grasshopper - Summation                | JavaScript | 8kyu kyu   | Oct 26, 2023 | ✅ Completed |
-| 18    |                                        | JavaScript | 8 kyu      |              |              |
-| 19    |                                        | JavaScript | 8 kyu      |              |              |
-| 20    |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
-|       |                                        |            |            |              |              |
+| 17    | Grasshopper - Summation                | JavaScript | 8kyu       | Oct 26, 2023 | ✅ Completed |
+| 18    | MakeUpperCase                          | JavaScript | 8 kyu      | Oct 26, 2023 | ✅ Completed |
+| 19    | Vowel Count                            | JavaScript | 7 kyu      | Oct 26, 2023 | ✅ Completed |
+| 20    |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
+|       |                                        | JavaScript |            |              | ✅ Completed |
